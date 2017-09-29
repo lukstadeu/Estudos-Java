@@ -1,3 +1,5 @@
+# FileFinder
+
 Este programa procura um determinado arquivo a partir de um diretório inicial. 
 
 O arquivo e o diretório inicial devem ser passados por parâmetro.
